@@ -1,0 +1,14 @@
+[
+    {
+        "place_name": "Sidi Saiyyed Mosque",
+        "place_desc": "Historic mosque built in 1573, famed for latticework carved into intricate tree designs.",
+        "gps_link": "https://maps.app.goo.gl/geXWadRx2rL8Rcvu6",
+        "image_link": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mosque_of_Sidi_Sayed_Jaali.JPG"
+    },
+    {
+        "place_name": "Mechanical Works",
+        "place_desc": "Lorem ipsum dolor sit amet, consectetur adipisicingelit.",
+        "gps_link": "#",
+        "image_link": "assets/images/g2.jpg"
+    }
+]
