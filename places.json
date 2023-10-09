@@ -1,14 +1,44 @@
 [
-    {
-        "place_name": "Sidi Saiyyed Mosque",
-        "place_desc": "Historic mosque built in 1573, famed for latticework carved into intricate tree designs.",
-        "gps_link": "https://maps.app.goo.gl/geXWadRx2rL8Rcvu6",
-        "image_link": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mosque_of_Sidi_Sayed_Jaali.JPG"
-    },
-    {
-        "place_name": "Mechanical Works",
-        "place_desc": "Lorem ipsum dolor sit amet, consectetur adipisicingelit.",
-        "gps_link": "#",
-        "image_link": "assets/images/g2.jpg"
-    }
+  {
+    "place_name": "Sidi Saiyyed Mosque",
+    "place_desc": "Historic mosque built in 1573, famed for latticework carved into intricate tree designs.",
+    "gps_link": "https://maps.app.goo.gl/geXWadRx2rL8Rcvu6",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mosque_of_Sidi_Sayed_Jaali.JPG"
+  },
+  {
+    "place_name": "The Magnifificent Bhadra Fort",
+    "place_desc": "Built by Ahmad Shah I in 1411, the Bhadra Fort is a magnificent structure that served as the royal palace of the rulers of Ahmedabad. With its intricately carved arches and balconies, this fort is a testament to the city's rich architectural heritage.",
+    "gps_link": "https://maps.app.goo.gl/jeA6GZmq5t8DjmSn8",
+    "image_link": "https://ahmedabadtourism.in/images/places-to-visit/headers/bhadra-fort-ahmedabad-entry-fee-timings-holidays-reviews-header.jpg"
+  },
+  {
+    "place_name": "The Iconic Jama Masjid",
+    "place_desc": "One of the most iconic landmarks of Ahmedabad, the Jama Masjid was built in 1424 by Sultan Ahmed Shah. With its towering minarets  intricately designed domes, this mosque is a masterpiece of Islamic architecture.",
+    "gps_link": "https://maps.app.goo.gl/6G2boRAuu855MQnX7",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jama_Masjid%2C_Ahmedabad_01.jpg"
+  },
+  {
+    "place_name": "The Serene Sabarmati Ashram",
+    "place_desc": "The Sabarmati Ashram, also known as the Gandhi Ashram, is a peaceful retreat that served as the residence of Mahatma Gandhi from 1917 to 1993. Today, the ashram is a museum that houses a collection of Gandhi's personal belongings and photographs.",
+    "gps_link": "https://maps.app.goo.gl/QdzRX8ATgYUDwDXA6",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/9/9a/GANDHI_ASHRAM_03.jpg"
+  },
+  {
+    "place_name": "The Fascinating Calico Museum of Textiles",
+    "place_desc": "The Calico Museum of Textiles is a fascinating museum that showcases the rich textile heritage of Gujarat. With its collection of rare textiles, costumes, and artifacts, this museum is a must-visit for anyone interested in textiles and handicrafts.",
+    "gps_link": "https://maps.app.goo.gl/5hrA1kjkkiMaariV7",
+    "image_link": "https://www.gujarattourism.com/content/dam/gujrattourism/images/museums/the-calico-museum-of-textiles/Calico-Museum-of-Textiles-Banner.jpg"
+  },
+  {
+    "place_name": "The Vibrant Manek Chowk",
+    "place_desc": "Manek Chowk is a vibrant market square that dates back to the 15th century. With its colorful shops and food stalls, this market is a popular destination for tourists and locals alike. From traditional Gujarati snacks to jewelry and textiles, Manek Chowk has something for everyone.",
+    "gps_link": "https://maps.app.goo.gl/j9qHX7fHdgqkyNCY6",
+    "image_link": "https://ahmedabadtourism.in/images/places-to-visit/headers/manek-chowk-ahmedabad-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+  },
+  {
+    "place_name": "The Majestic Kankaria Lake",
+    "place_desc": "Kankaria Lake is a majestic lake that was built in the 15th century by Sultan Qutbuddin. With its beautiful gardens, amusement park, and zoo, this lake is a popular destination for families and tourists alike.",
+    "gps_link": "https://maps.app.goo.gl/inY6M838Yx3p8rmJA",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Kankaria_Carnival_2_Ahmedabad.JPG"
+  }
 ]
